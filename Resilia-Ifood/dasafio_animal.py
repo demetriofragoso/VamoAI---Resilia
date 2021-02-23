@@ -1,0 +1,6 @@
+print("Qual o animal que você gostaria de ser?")
+animal = input()
+print ("Num primeiro momento, gostaria de ser um,",animal)
+print("Qual o animal diferente da primeira escolha você gostaria de ser?")
+animal = input()
+print("Pensando melhor, eu gostaria mesmo de ser um", animal)
